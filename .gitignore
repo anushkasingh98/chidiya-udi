@@ -2,4 +2,4 @@
 *.log
 
 # ignore ALL .log files
-*.DS_Store
+.DS_Store
